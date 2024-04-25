@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn JavaScript",
+      "completed": false
+    },
+    {
+      "title": "Learn RTK Query",
+      "completed": false,
+      "id": 2
+    }
+  ]
+}
